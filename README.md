@@ -1,7 +1,7 @@
 ## Hi, I'm Darsh Patel 👋
 
 🎓 Software Engineering Student @ Western University  
-💻 Building projects in Java, C#, Unity, Python, and Digital Logic. 
+💻 Building projects in Java, C#, Unity, Python, and Digital Logic.
 🚀 Interested in AI and Full-Stack Development
 
 ----------------------------------------------------------------------------
