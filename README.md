@@ -28,7 +28,7 @@
 
 ## 🧑‍💻 Contact
 ✉️ Email: darshpatel060106@gmail.com
-🔗 Linkden:
+🔗 Linkedin:
 
 
 
