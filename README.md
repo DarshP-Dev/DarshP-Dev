@@ -7,7 +7,7 @@
 ----------------------------------------------------------------------------
 
 ## 🔧 Technical Skills
-**Languages:** Java, C#, Python, C
+**Languages:** Java, C#, Python, C++
 **Tools:** Git, Unity, Quartus, Maven, Intellij, Jupyter Notebook
 **Concepts:** OOP, Data Structures, Algorithms, FSM Design, Digital Logic
 
