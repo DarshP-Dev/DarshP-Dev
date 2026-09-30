@@ -28,7 +28,7 @@
 
 ## 🧑‍💻 Contact
 ✉️ Email: darshpatel060106@gmail.com
-🔗 Linkedin:
+🔗 Linkedin: https://www.linkedin.com/in/darshpatel-dev/?isSelfProfile=true
 
 
 
